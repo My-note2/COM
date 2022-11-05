@@ -1,0 +1,18 @@
+// Section4Demo1.idl : Section4Demo1的 IDL 源
+//
+
+// 此文件将由 MIDL 工具处理以
+// 产生类型库(Section4Demo1.tlb)和封送处理代码。
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(E133C270-2EF3-4639-9F76-4672117D409F),
+	version(1.0),
+]
+library Section4Demo1Lib
+{
+	importlib("stdole2.tlb");
+};
+

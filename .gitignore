@@ -1,12 +1,12 @@
 # Prerequisites
-*.d
+/pro
 
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
-
+*.filters
 # Precompiled Headers
 *.gch
 *.pch
